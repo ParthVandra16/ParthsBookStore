@@ -113,6 +113,15 @@ I have remove some property from layout.cshtml line no 7, 23,27
 go to the loginpartial.cshtml file and remove text-dark from all lines
 run application
 
+0820
+add additional script in the layout.cshtml file 
+Add dropdown menu for content management in the layout.cshtml file.
+
+Add three new project 
+Install nuget packages
+Delete migration folder
+Install nuget packages in the ParthsBooks.DataAccess project
+modify namespace in the ApplicationDbContext.cs File
 
 
 
