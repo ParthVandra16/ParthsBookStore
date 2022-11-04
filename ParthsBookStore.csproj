@@ -19,4 +19,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.16" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ParthsBooks.DataAccess\ParthsBooks.DataAccess.csproj" />
+    <ProjectReference Include="..\ParthsBooks.Models\ParthsBooks.Models.csproj" />
+  </ItemGroup>
+
 </Project>

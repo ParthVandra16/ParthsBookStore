@@ -123,5 +123,19 @@ Delete migration folder
 Install nuget packages in the ParthsBooks.DataAccess project
 modify namespace in the ApplicationDbContext.cs File
 
+0825
+Delete default Class1.cs file in all project
+move models folder into the ParthsBooks.models project
+modify error.cshtml file
+add project reference
+
+0450
+rename model folder to view folder ViewModels
+change the Errorviewmodels.cs tp .models.viewmodels
+modify startup.cs file add library file "using ParthsBookStore.DataAccess.Data;"
+correct default reference to ErrorViewModel
+run code..
+its run
+
 
 
